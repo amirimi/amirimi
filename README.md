@@ -8,10 +8,10 @@ Most of that work lives in private company repositories. The projects and merged
 
 ## Selected Work
 
-* **[Guardian](https://github.com/amk9978/Guardian)**: A Go microkernel for extensible LLM guardrails, quota enforcement, and policy plugins.
-* **[ContributorCompass](https://github.com/amk9978/ContributorCompass)**: Finds the open-source projects where your skills, growth, and community impact align.
-* **[People Match Engine](https://github.com/amk9978/Match-Engine)**: Graph- and embedding-based matching of professionals with FastAPI, FAISS, and Redis.
-* **[RateLimiter](https://github.com/amk9978/RateLimiter)**: Sliding-window and leaky-bucket rate limiting in Go, backed by Redis.
+* **[Guardian](https://github.com/amirimi/Guardian)**: A Go microkernel for extensible LLM guardrails, quota enforcement, and policy plugins.
+* **[ContributorCompass](https://github.com/amirimi/ContributorCompass)**: Finds the open-source projects where your skills, growth, and community impact align.
+* **[People Match Engine](https://github.com/amirimi/Match-Engine)**: Graph- and embedding-based matching of professionals with FastAPI, FAISS, and Redis.
+* **[RateLimiter](https://github.com/amirimi/RateLimiter)**: Sliding-window and leaky-bucket rate limiting in Go, backed by Redis.
 
 ## Open Source
 

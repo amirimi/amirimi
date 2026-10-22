@@ -1,6 +1,6 @@
 # Amir Karimi
 
-Over the past eight years I have worked on high-traffic products serving 50M+ users, led backend engineers, improved production throughput, and built systems across distributed services, developer infrastructure, and applied AI. Most recently that meant a centralized LLM gateway handling 400K+ requests/day with per-team attribution, quotas and cost governance, and an event-sourced AWS provisioning platform that automated isolated environments for internal product launches.
+Over the past eight years, I have worked on high-traffic products serving 50M+ users, led backend engineers, improved production throughput, and built systems across distributed services, developer infrastructure, and applied AI. Most recently that meant a centralized LLM gateway handling 400K+ requests/day with per-team attribution, quotas and cost governance, and an event-sourced AWS provisioning platform that automated isolated environments for internal product launches.
 
 Most of that work lives in private company repositories. The projects and merged contributions below are public examples of how I approach architecture, performance, and reliability.
 

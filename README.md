@@ -11,7 +11,8 @@ Most of that work lives in private company repositories. The projects and merged
 * **[Guardian](https://github.com/amirimi/Guardian)**: A Go microkernel for extensible LLM guardrails, quota enforcement, and policy plugins.
 * **[ContributorCompass](https://github.com/amirimi/ContributorCompass)**: Finds the open-source projects where your skills, growth, and community impact align.
 * **[People Match Engine](https://github.com/amirimi/Match-Engine)**: Graph- and embedding-based matching of professionals with FastAPI, FAISS, and Redis.
-* **[RateLimiter](https://github.com/amirimi/RateLimiter)**: Sliding-window and leaky-bucket rate limiting in Go, backed by Redis.
+* **[LiteLLM Brownout](https://github.com/amirimi/litellm-brownout)**: LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out
+
 
 ## Open Source
 
